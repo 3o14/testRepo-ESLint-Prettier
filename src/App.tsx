@@ -1,14 +1,11 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
 
 function App() {
-  console.log("hi");;;;;
-  return (
-    <div>
-      Hello
-    </div>
-  );
+  const wonju = "사용하지 않는 변수";
+
+  console.log("hi");
+
+  return <div></div>;
 }
 
 export default App;
